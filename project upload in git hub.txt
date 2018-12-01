@@ -1,0 +1,7 @@
+android studio-->
+goto -->VCS-->select "Git"-->OK
+again goto project mode-->
+right click on project_name-->
+git-->select "add"-->again goto git-->select "commit reprository"-->
+again goto git-->then "reprository"-->select "push"
+it will be done
